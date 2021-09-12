@@ -1,4 +1,11 @@
-## Oiii! Eu sou o Alexandre Rodrigues 🤘🤘🤘
+## Olá! Eu sou o Alexandre Rodrigues 👋👋👋
+
+Sou apaixado por dados e pela arte de educar. 💓💓💓
+Atualmente, eu trabalho com Análise de Dados na Agência Nacional de Mineração. 🕵️‍♂️🕵️‍♂️🕵️‍♂️
+Paralelamente, leciono na PUC/MG, no CEFET/MG e na Cotemig. 👨‍🏫👨‍🏫👨‍🏫
+Meu hobby é correr 🏃‍♂️🏃‍♂️🏃‍♂️
+
+
  <div>
   <a href="https://github.com/alexandrerodrigues2311">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrerodrigues2311&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
