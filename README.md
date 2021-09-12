@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alexandre Rodrigues 👋👋👋
 
-Sou apaixado por dados e pela arte de educar. 💓💓💓
+<p> Sou apaixado por dados e pela arte de educar. 💓💓💓 </p>
 Atualmente, eu trabalho com Análise de Dados na Agência Nacional de Mineração. 🕵️‍♂️🕵️‍♂️🕵️‍♂️
 Paralelamente, leciono na PUC/MG, no CEFET/MG e na Cotemig. 👨‍🏫👨‍🏫👨‍🏫
 Meu hobby é correr 🏃‍♂️🏃‍♂️🏃‍♂️
